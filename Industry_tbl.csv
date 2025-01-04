@@ -1,0 +1,31 @@
+Activity_ID;Activity_Name;Industry
+1;Specialty Industrial Machinery;Industrials
+2;Auto Manufacturers;Automobile
+3;Specialty Business Services;Business Services
+4;Not available;Not available
+5;Insurance - Reinsurance;Financials
+6;Semiconductor Equipment & Materials;Technology
+7;Aerospace & Defense;Industrials
+8;Medical Devices;Healthcare
+9;Software - Application;Technology
+10;Building Products & Equipment;Industrials
+11;Telecom Services;Technology
+12;Luxury Goods;Consumer Non-Cyclicals
+13;Oil & Gas Equipment & Services;Utilities
+14;Beverages - Brewers;Consumer Non-Cyclicals
+15;Packaged Foods;Consumer Cyclicals
+16;Infrastructure Operations;Technology
+17;Apparel Retail;Consumer Cyclicals
+18;Drug Manufacturers - General;Consumer Non-Cyclicals
+19;Engineering & Construction;Industrials
+20;Specialty Chemicals;Basic Materials
+21;Chemicals;Basic Materials
+22;Insurance - Diversified;Financials
+23;Financial Data & Stock Exchanges;Financials
+24;Utilities - Diversified;Utilities
+25;Banks - Regional;Financials
+26;Household & Personal Products;Consumer Cyclicals
+27;Utilities - Regulated Gas;Utilities
+28;Beverages - Wineries & Distilleries;Consumer Non-Cyclicals
+29;Banks - Diversified;Financials
+30;Entertainment;Consumer Cyclicals

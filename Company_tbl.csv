@@ -1,0 +1,51 @@
+Company_ID;Company_Name;Activity_ID;Country_Headquarter;Index_ID
+ABI.BR;Anheuser-Busch InBev SA/NV;14;4;^STOXX50E
+AI.PA;Air Liquide S.A.;20;6;^STOXX50E
+AIR.PA;Airbus SE;7;5;^STOXX50E
+ALV.DE;Allianz SE;22;3;^STOXX50E
+ASML.AS;ASML Holding N.V.;6;5;^STOXX50E
+BAS.DE;BASF SE;21;3;^STOXX50E
+BBVA.MC;Banco Bilbao Vizcaya Argentaria, S.A.;29;8;^STOXX50E
+BAYN.DE;Bayer AG;18;3;^STOXX50E
+BN.PA;Danone S.A.;15;6;^STOXX50E
+CRG.IR;CRH plc;4;1;^STOXX50E
+CS.PA;AXA S.A.;22;6;^STOXX50E
+DAI.DE;Mercedes-Benz Group AG;4;1;^STOXX50E
+DB1.DE;Deutsche Boerse AG;23;3;^STOXX50E
+DG.PA;VINCI S.A.;19;6;^STOXX50E
+DPW.DE;Deutsche Post AG;4;1;^STOXX50E
+DTE.DE;Deutsche Telekom AG;11;3;^STOXX50E
+EN.PA;Bouygues S.A.;19;6;^STOXX50E
+ENG.MC;Enagas S.A.;27;8;^STOXX50E
+ENEL.MI;Enel S.p.A.;24;7;^STOXX50E
+ENEI.MI;Eni S.p.A.;4;1;^STOXX50E
+EONGY;E.ON SE;24;3;^STOXX50E
+FER.MC;Ferrovial S.A.;16;5;^STOXX50E
+GRF.PA;Groupe Renault S.A.;4;1;^STOXX50E
+IBE.MC;Iberdrola S.A.;24;8;^STOXX50E
+INA.MI;Intesa Sanpaolo S.p.A.;4;1;^STOXX50E
+ITX.MC;Industria de Diseno Textil, S.A. (Inditex);17;8;^STOXX50E
+KER.PA;Kering S.A.;12;6;^STOXX50E
+MC.PA;LVMH Moet Hennessy Louis Vuitton SE;12;6;^STOXX50E
+MUV2.DE;Muenchener Rueckversicherungs-Gesellschaft AG;5;3;^STOXX50E
+NG.PA;Bureau Veritas S.A.;4;1;^STOXX50E
+OR.PA;L'Oreal S.A.;26;6;^STOXX50E
+PHIA.AS;Koninklijke Philips N.V.;8;5;^STOXX50E
+RACE.MI;Ferrari N.V.;2;7;^STOXX50E
+RI.PA;Pernod Ricard S.A.;28;6;^STOXX50E
+SAF.PA;Safran S.A.;7;6;^STOXX50E
+SAN.PA;Sanofi S.A.;18;6;^STOXX50E
+SAP.DE;SAP SE;9;3;^STOXX50E
+SBMO.AS;SBM Offshore N.V.;13;5;^STOXX50E
+SGO.PA;Compagnie de Saint-Gobain S.A.;10;6;^STOXX50E
+SIE.DE;Siemens AG;1;3;^STOXX50E
+SLHN.SW;Swiss Life Holding AG;22;2;^STOXX50E
+SREN.SW;Swiss Re AG;5;2;^STOXX50E
+SU.PA;Schneider Electric S.E.;1;6;^STOXX50E
+TEF.MC;Telefonica S.A.;11;8;^STOXX50E
+UCG.MI;UniCredit S.p.A.;25;7;^STOXX50E
+UL.PA;Unibail-Rodamco-Westfield SE;4;1;^STOXX50E
+VIV.PA;Vivendi SE;30;6;^STOXX50E
+VOW3.DE;Volkswagen AG (Vorzugsaktie);2;3;^STOXX50E
+WKL.AS;Wolters Kluwer N.V.;3;5;^STOXX50E
+ZURN.SW;Zurich Insurance Group AG;22;2;^STOXX50E
